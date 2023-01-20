@@ -1,0 +1,15 @@
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\bin\Debug\net6.0\Perusteet_Kertaus.exe
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\bin\Debug\net6.0\Perusteet_Kertaus.deps.json
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\bin\Debug\net6.0\Perusteet_Kertaus.runtimeconfig.json
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\bin\Debug\net6.0\Perusteet_Kertaus.dll
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\bin\Debug\net6.0\Perusteet_Kertaus.pdb
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.csproj.AssemblyReference.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.AssemblyInfoInputs.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.AssemblyInfo.cs
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.csproj.CoreCompileInputs.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.dll
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\refint\Perusteet_Kertaus.dll
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.pdb
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\Perusteet_Kertaus.genruntimeconfig.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# perusteet\Perusteet_Kertaus\obj\Debug\net6.0\ref\Perusteet_Kertaus.dll
