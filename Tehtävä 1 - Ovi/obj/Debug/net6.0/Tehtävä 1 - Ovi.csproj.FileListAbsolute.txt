@@ -1,0 +1,15 @@
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\bin\Debug\net6.0\Tehtävä 1 - Ovi.exe
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\bin\Debug\net6.0\Tehtävä 1 - Ovi.deps.json
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\bin\Debug\net6.0\Tehtävä 1 - Ovi.runtimeconfig.json
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\bin\Debug\net6.0\Tehtävä 1 - Ovi.dll
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\bin\Debug\net6.0\Tehtävä 1 - Ovi.pdb
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.csproj.AssemblyReference.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.AssemblyInfoInputs.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.AssemblyInfo.cs
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.csproj.CoreCompileInputs.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.dll
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\refint\Tehtävä 1 - Ovi.dll
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.pdb
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\Tehtävä 1 - Ovi.genruntimeconfig.cache
+C:\Users\s2100951\OneDrive - Business College Helsinki\TVT opinnot (Toinen vuosi)\Pelikehittäjänä toimiminen\Osa 1\C# Olio-ohjelmointi\Tehtävä 1 - Ovi\obj\Debug\net6.0\ref\Tehtävä 1 - Ovi.dll
